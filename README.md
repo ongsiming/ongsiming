@@ -4,8 +4,7 @@ I'm interested in **Blockchain** and the utilization of it.
 Yes, I'm a Web 3.0 enthusiast and a builder
 I code with **Python, JS/TS, Rust.**
 
-Being Inspired by the book "Hackers & Painters" by Paul Graham, 
-But everyday fails to code something artsy. 
+I'm currently trying to transit my path to dev-ops and SC developer.
 
 
 <!--
