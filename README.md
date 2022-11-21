@@ -4,8 +4,6 @@ I'm interested in **Blockchain** and the utilization of it.
 Yes, I'm a Web 3.0 enthusiast and a builder
 I code with **Python, JS/TS, Rust.**
 
-I'm currently trying to change my path to dev-ops and SC developer.
-
 
 <!--
 **ongsiming/ongsiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
