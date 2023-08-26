@@ -1,9 +1,5 @@
 Hi there 👋 I'm Timothy Kim
 
-I'm interested in **Blockchain** and the utilization of it. 
-Yes, I'm a Web 3.0 enthusiast and a builder
-I code with **Python, JS/TS, Rust.**
-
 
 <!--
 **ongsiming/ongsiming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
